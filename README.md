@@ -39,7 +39,7 @@ Lalu jika semua sudah di buat maka kita save, lalu kita run maka hasilnya akan s
   ![hasil_praktikum_4.png](Pic/hasil_praktikum_4.png)
   
 Lalu kita buat flowchartnya seperti gambar dibawah ini:<br>
-  ![flowchart.png(Pic/flowchart.png)
+  ![flowchart.png](Pic/flowchart.png)
 
 Dengan begini selesai sudah tugas praktikum 4 pada pertemuan 9 kali ini sampai jumpa
 
