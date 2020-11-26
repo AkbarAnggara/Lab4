@@ -1,8 +1,8 @@
 # TUGAS PRAKTIKUM 4 - Pertemuan 9
 
-Nama\t: Bangkit Akbar Anggara<br>
-NIM\t: 312010148<br>
-Kelas\t: TI.20.B.1<br>
+Nama      : Bangkit Akbar Anggara<br>
+NIM       : 312010148<br>
+Kelas     : TI.20.B.1<br>
 
 # Tugas
 
