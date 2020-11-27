@@ -12,7 +12,7 @@ Pada pertemuan ke-9 saya diberi tugas oleh dosen saya untuk membuat program sede
 dan untuk bentuk dari programnya seperti ini:<br>
 ![tampilan_tugas.png](Pic/tampilan_tugas.png)
 
-Berikut adalah source code yang saya gunakan untuk mengerjakan soal diatas:<br>
+Berikut adalah source code/syntax yang saya gunakan untuk mengerjakan soal diatas:<br>
 ![code.png](Pic/code.png)
 
 Keterangan:<br>
