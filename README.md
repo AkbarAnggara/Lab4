@@ -43,6 +43,7 @@ Lalu kita buat flowchartnya seperti gambar dibawah ini:<br>
 
 Dengan begini selesai sudah tugas praktikum 4 pada pertemuan 9 kali ini sampai jumpa
 
+by:<br>
 # ==== Bangkit Akbar Anggara ====
 # ==== 312010148 ====
 # ==== TI.20.B.1 ====
