@@ -4,7 +4,18 @@ Nama      : Bangkit Akbar Anggara<br>
 NIM       : 312010148<br>
 Kelas     : TI.20.B.1<br>
 
-# Tugas
+# Latihan
+Tugas Latihan Praktikum 4:<br>
+  ![latihan.png](Pic/latihan.png)
+  
+Berikut adalah syntax yang saya gunakan:<br>
+  ![syntax_latihan4.png](Pic/syntax_latihan4.png)
+  
+Hasil dari run syntax di atas<br>
+  ![hasil_latihan4.png](Pic/hasil_latihan4.png)
+  
+  
+# Tugas 
 
 Pada pertemuan ke-9 saya diberi tugas oleh dosen saya untuk membuat program sederhana seperti gambar dibawah ini:<br>
 ![tugas.png](Pic/tugas.png)
